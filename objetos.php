@@ -10,11 +10,11 @@ class Carros {
     }
 
     function get_modelo(){
-        return $this->marcas;
+        return $this->modelo;
     }
 
     function get_marcas(){
-        return $this-> modelo;
+        return $this-> marcas;
     }
 }
 
